@@ -1,0 +1,10 @@
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\bin\Debug\EightHourLater.exe.config
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\bin\Debug\EightHourLater.exe
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\bin\Debug\EightHourLater.pdb
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\obj\Debug\EightHourLater.csprojAssemblyReference.cache
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\obj\Debug\EightHourLater.Form1.resources
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\obj\Debug\EightHourLater.Properties.Resources.resources
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\obj\Debug\EightHourLater.csproj.GenerateResource.cache
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\obj\Debug\EightHourLater.csproj.CoreCompileInputs.cache
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\obj\Debug\EightHourLater.exe
+C:\Users\ilyal\Documents\1 проги\EightHourLater\EightHourLater\obj\Debug\EightHourLater.pdb
